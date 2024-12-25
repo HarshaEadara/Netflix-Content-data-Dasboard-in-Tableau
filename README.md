@@ -13,8 +13,8 @@ The goal of this project is to explore and visualize Netflix content data, creat
 ## Getting Started
 
 ### Prerequisites:
-- Tableau Desktop (or Tableau Public)
-- Netflix Content Dataset (provided in the repository)
+- **Tableau Desktop** (or **Tableau Public**)
+- **Netflix Content Dataset** (provided in the repository)
 
 ### Steps to Run:
 1. Download or clone the repository to your local machine.
